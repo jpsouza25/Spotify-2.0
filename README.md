@@ -1,2 +1,2 @@
-# Spotfy-2.0
-Projeto de recriar o spotfy usando ionic 
+# Spotify-2.0
+Projeto de recriar o spotify usando ionic 
